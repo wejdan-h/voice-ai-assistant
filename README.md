@@ -60,11 +60,53 @@ Example of the assistant receiving voice input and generating an AI response:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/voice-ai-assistant.git
-
+git clone https://github.com/your-username/voice-ai-assistant.git 
+```
 
 ### 2. Install Dependencies
 Install the required Python libraries:
 
 ```bash
 pip install -r requirements.txt
+```
+
+### 3.Install FFmpeg
+Whisper requires FFmpeg for audio processing.
+
+Install FFmpeg on your system and restart your computer after installation.
+
+### 4. Configure API Key
+
+Create a file named:
+
+.env
+
+inside the project folder.
+
+Add your Cohere API key:
+
+COHERE_API_KEY=your_api_key_here
+Running the Application
+
+
+Start the assistant using:
+
+python main.py
+
+
+##The assistant can be stopped using:
+
+خروج
+انهاء
+توقف
+stop
+exit
+bye
+
+##The project requires:
+
+Python 3.x
+Microphone access
+Internet connection for API requests
+Cohere API Key
+Future Improvements
