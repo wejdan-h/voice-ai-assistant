@@ -87,16 +87,16 @@ Running the Application
 
 
 
-##The assistant can be stopped using:
-stop
-exit
-bye
-مع السلامه 
+## The assistant can be stopped using:
+- stop
+- exit
+- bye
+- مع السلامه 
 
 ## The project requires:
 
-Python 3.x
-Microphone access
-Internet connection for API requests
-Cohere API Key
-Future Improvements
+- Python 3.x
+- Microphone access
+- Internet connection for API requests
+- Cohere API Key
+- Future Improvements
