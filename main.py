@@ -250,11 +250,7 @@ if __name__ == "__main__":
 
             # Supported exit commands
             exit_words = [
-
-                "خروج",
-                "انهاء",
-                "توقف",
-                "وقف",
+                
                 "مع السلامة",
                 "stop",
                 "exit",
