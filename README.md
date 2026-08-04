@@ -52,9 +52,6 @@ Example of the assistant receiving voice input and generating an AI response:
 
 ---
 
-
----
-
 ## Installation and Setup
 
 ### 1. Clone the repository
@@ -89,21 +86,14 @@ COHERE_API_KEY=your_api_key_here
 Running the Application
 
 
-Start the assistant using:
-
-python main.py
-
 
 ##The assistant can be stopped using:
-
-خروج
-انهاء
-توقف
 stop
 exit
 bye
+مع السلامه 
 
-##The project requires:
+## The project requires:
 
 Python 3.x
 Microphone access
