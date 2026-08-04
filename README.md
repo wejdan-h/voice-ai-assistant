@@ -72,6 +72,11 @@ Whisper requires FFmpeg for audio processing.
 
 Install FFmpeg on your system and restart your computer after installation.
 
+Tutorial to download FFmpeg:
+https://www.youtube.com/watch?v=22vmzTs5BoE
+
+Note: you have to restart the computer after installing Whisper and FFmpeg.
+
 ### 4. Configure API Key
 
 Create a file named:
